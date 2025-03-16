@@ -1,5 +1,5 @@
 {
-  "name": "DREADED BOT",
+  "name": "WANTED BOT",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -14,9 +14,9 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI#readme",
-  "repository": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI.git",
-  "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
+  "website": "https://github.com/JOSEPH806/DREADED-GPT-AI#readme",
+  "repository": "https://github.com/JOSEPH806/DREADED-GPT-AI.git",
+  "https://files.catbox.moe/bc70kx.jpg",
   "success_url": "/",
   "env": {
        "PREFIX":
