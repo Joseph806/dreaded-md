@@ -1,5 +1,5 @@
 {
-  "name": "DREADED-MD",
+  "name": "WANTED-MD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "run.js",
@@ -93,10 +93,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fortunatusmokaya/dreaded-md.git"
+    "url": "git+https://github.com/JOSEPH806/dreaded-md.git"
   },
   "bugs": {
-    "url": "https://github.com/Fortunatusmokaya/dreaded-md/issues"
+    "url": "https://github.com/JOSEPH806/dreaded-md/issues"
   },
-  "homepage": "https://github.com/Fortunatusmokaya/dreaded-md#readme"
+  "homepage": "https://github.com/JOSEPH806/dreaded-md#readme"
 }
